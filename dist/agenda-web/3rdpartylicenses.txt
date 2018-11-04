@@ -345,20 +345,20 @@ MIT
 
 @angular/material/table
 
-@angular/material/tooltip
-
-@angular/material/core
-
 @angular/material/form-field
 
 @angular/forms
 MIT
 
+@angular/material/core
+
 @angular/material/select
 
-@angular/material/paginator
+@angular/material/radio
 
 @angular/material/tree
+
+@angular/material/tooltip
 
 @angular/material/sidenav
 

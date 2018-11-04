@@ -17,4 +17,8 @@ export class PersonService {
   getPersons() {
     return this.http.get(this.apiUrl);
   }
+
+  addPerson(person) {
+    return this.http.post(this.apiUrl, person);
+  }
 }
